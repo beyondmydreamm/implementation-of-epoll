@@ -1,2 +1,2 @@
 # implementation-of-epoll
-Implementing epoll through singleton mode
+Implementing reactor model through singleton pattern
